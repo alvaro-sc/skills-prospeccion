@@ -14,7 +14,7 @@ Las bandas de empleados del menú pueden no coincidir con el ICP: si necesitas 5
 
 ## Flujo de cuentas a personas
 
-La guía oficial explica guardar cuentas y localizar compradores usando Account Lists o Current Company; también guardar personas y búsquedas. El guardado se realiza manualmente en esta versión. [Guía de uso](https://business.linkedin.com/sell/sales-navigator/how-to-use).
+La guía oficial explica guardar cuentas y localizar compradores usando Account Lists o Current Company; también guardar personas y búsquedas. El usuario puede guardar manualmente; el agente solo puede hacerlo si tiene control de navegador comprobado y verifica el guardado en el gestor de listas. [Guía de uso](https://business.linkedin.com/sell/sales-navigator/how-to-use).
 
 ## Cómo interpretar señales
 
