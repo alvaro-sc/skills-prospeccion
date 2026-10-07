@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creador de listas de LinkedIn"
+  short_description: "Prepara búsquedas y revisa prospectos con evidencia"
+  default_prompt: "Usa $creador-de-listas-linkedin para preparar mi búsqueda y revisar una muestra de 20 perfiles según mi cliente ideal."

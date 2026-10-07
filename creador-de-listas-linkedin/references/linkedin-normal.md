@@ -12,7 +12,7 @@ Pedir el recuento observado y revisar calidad antes de ampliar. No prometer 100�
 
 ## Prueba real con navegador (2026-10-07)
 
-Búsqueda de Personas en México, sector Staffing and Recruiting (ID 104, menú en español: "Dotación y selección de personal") y palabra clave "fundador". Resultado: 10 páginas visibles; de los primeros 10 perfiles, 2 A, 3 B y 5 Fuera.
+Búsqueda de Personas en México, sector Staffing and Recruiting (ID 104, menú en español: "Dotación y selección de personal") y palabra clave "fundador". Resultado reportado en la prueba original: 10 páginas visibles; de los primeros 10 perfiles, 2 A, 3 B y 5 Fuera con el criterio anterior de rol/giro. Esos conteos no equivalen a ENCAJA según la revisión completa actual ni a un límite universal de LinkedIn. La evidencia de navegación no está incluida en este repositorio; repetir la muestra en la cuenta del usuario.
 
 - Ubicación y sector viajan en la URL: `geoUrn=["103323778"]` (México) e `industry=["104"]`. Con eso la URL sirve como búsqueda guardada.
 - El parámetro de cargo (`titleFreeText`) se descartó al cargar desde URL: no confiar en él; aplicar el filtro de cargo desde el menú y verificarlo en pantalla, o usar 1 palabra clave.

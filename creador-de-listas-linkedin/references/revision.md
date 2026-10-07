@@ -12,13 +12,23 @@ En cada perfil marca:
 
 Añade una señal observada con fuente o escribe “pendiente”. No inventes perfiles para completar la muestra.
 
+## Semáforo para el cliente
+
+El ajuste y la prioridad deben coincidir en todas las rutas:
+
+- A (revisar señal) = ENCAJA: evidencia de todos los criterios obligatorios.
+- B (completar evidencia) = PENDIENTE: falta algún dato necesario, sin contradicción confirmada.
+- Fuera = NO ENCAJA: contradicción comprobada con algún requisito o exclusión.
+
+No descartar por ausencia de información. Una señal observada ayuda a priorizar, pero no demuestra presupuesto, necesidad ni intención de compra. Si la señal es obligatoria para este ICP, también entra en la validación del ajuste.
+
 ## Primera revisión
 
 Revisa 20 perfiles reales, o todos si hay menos. Para diagnosticar la búsqueda inicial pueden usarse los primeros resultados, indicando sesgo por el orden; antes de ampliar conviene revisar también perfiles de otros segmentos o posiciones. No presentes la muestra como representativa de toda la lista.
 
 Reporta ENCAJA / revisados, NO ENCAJA / revisados y PENDIENTE / revisados con sus conteos. Explica los principales falsos positivos. Umbral de trabajo sugerido, ajustable por el usuario: 16 ENCAJA de 20 antes de ampliar. No es una tasa de conversión ni una garantía comercial. Con menos de 20, reporta la muestra reducida sin declarar la búsqueda validada con ese umbral.
 
-## Segmentación para 100–300 personas
+## Segmentación según el objetivo
 
 Empieza con 1 búsqueda. Cuando existan conteos, divide por una dimensión útil: territorio permitido, categoría empresarial o banda de tamaño. Usa segmentos sin solapamiento cuando sea posible; si separas por títulos, una persona puede aparecer varias veces y requiere deduplicación. Registra prioridades para asignar cada persona a 1 segmento principal.
 
