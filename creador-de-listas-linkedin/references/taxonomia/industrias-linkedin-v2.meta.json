@@ -1,0 +1,15 @@
+{
+  "source_url": "https://learn.microsoft.com/en-us/linkedin/shared/references/reference-tables/industry-codes-v2",
+  "retrieved_on": "2026-10-02",
+  "source_document_date": "2023-04-15",
+  "rows": 487,
+  "by_status": {
+    "active": 434,
+    "inactive": 53
+  },
+  "source_sha256": "44ab453625a70264e31f83d98bc56dc5a380a08035ab3439ca58fc308b30fdd7",
+  "csv_sha256": "b07ce09af6af00ea2dfc4ab3b9d187de83c1d5105b843ba4719adfd6cad429a5",
+  "format": "CSV UTF-8 BOM",
+  "scope": "Todas las filas de industrias activas e inactivas publicadas en Industry Codes V2; no garantiza disponibilidad de cada valor en todos los productos o planes.",
+  "transformation": "Tablas HTML a CSV; etiquetas originales en inglés; espacios normalizados; jerarquía vacía cuando la tabla oficial no la publica. Exportación local, no CSV distribuido por LinkedIn."
+}
